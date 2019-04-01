@@ -1,0 +1,2198 @@
+[
+    {
+      "AssetClass": "Alternatives",
+      "DisplayClass": "Alternatives",
+      "Id": "64N3",
+      "LongName": "AB All Market Real Return Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        },
+        {
+          "Name": "2"
+        }
+      ],
+      "ShortName": "All Market Real Return Portfolio",
+      "Style": "Equity",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Real_Asset.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Alternatives",
+      "DisplayClass": "Alternatives",
+      "Id": "3154",
+      "LongName": "AB Global Real Estate Investment Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Global Real Estate Investment Fund",
+      "Style": "Equity",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Value/Global_Real_Estate_Investment.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Alternatives",
+      "DisplayClass": "Alternatives",
+      "Id": "64LC",
+      "LongName": "AB Long/Short Multi-Manager Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Long/Short Multi-Manager Fund",
+      "Style": "Equity",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Alternatives/Long_Short_Multi_Manager.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Alternatives",
+      "DisplayClass": "Alternatives",
+      "Id": "64MC",
+      "LongName": "AB Multi-Manager Alternative Strategies Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Alternative Strategies Fund",
+      "Style": "Equity",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Alternatives/Multi-Manager_Alternative_Strategies.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Alternatives",
+      "DisplayClass": "Alternatives",
+      "Id": "64RK",
+      "LongName": "AB Select US Long/Short Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Select US Long/Short Portfolio",
+      "Style": "Equity",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/Select_US_Long_Short.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Alternatives",
+      "DisplayClass": "Alternatives",
+      "Id": "64DC",
+      "LongName": "AB Credit Long/Short Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Credit Long/Short Portfolio",
+      "Style": "Fixed Income",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Taxable/Credit_Long_Short.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Alternatives",
+      "DisplayClass": "Alternatives",
+      "Id": "3157",
+      "LongName": "AB Unconstrained Bond Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Unconstrained Bond Fund",
+      "Style": "Fixed Income",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Taxable/Unconstrained_Bond_Fund.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "64B1",
+      "LongName": "AB Core Opportunities Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Core Opportunities Fund",
+      "Style": "Core",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/Core_Opportunities.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "3106",
+      "LongName": "AB Select US Equity Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Select US Equity Portfolio",
+      "Style": "Core",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/Select_US_Equity.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "64R0",
+      "LongName": "AB Concentrated Growth Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Concentrated Growth Fund",
+      "Style": "Growth",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Growth/Concentrated_Growth.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "6417",
+      "LongName": "AB Discovery Growth Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Discovery Growth Fund",
+      "Style": "Growth",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Growth/Discovery-Growth.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "ZX02",
+      "LongName": "AB Growth Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Growth Fund",
+      "Style": "Growth",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Growth/Growth.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "6456",
+      "LongName": "AB Large Cap Growth Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Large Cap Growth Fund",
+      "Style": "Growth",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Growth/Large_Cap_Growth.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "6406",
+      "LongName": "AB Small Cap Growth Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Small Cap Growth Portfolio",
+      "Style": "Growth",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Growth/Small_Cap_Growth.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "2R83",
+      "LongName": "AB Discovery Value Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Discovery Value Fund",
+      "Style": "Value",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Value/Small_Mid_Cap_Value.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "6475",
+      "LongName": "AB Equity Income Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Equity Income Fund",
+      "Style": "Value",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Value/Equity_Income.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "6438",
+      "LongName": "AB Growth & Income Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Growth & Income Fund",
+      "Style": "Value",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/Growth_and_Income.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "64W3",
+      "LongName": "AB Small Cap Value Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Small Cap Value Portfolio",
+      "Style": "Value",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Value/Small_Cap_Value.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "US Equity",
+      "DisplayClass": "Equities: US",
+      "Id": "2R82",
+      "LongName": "AB Value Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Value Fund",
+      "Style": "Value",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Value/Value.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "International/Global Equity",
+      "DisplayClass": "Equities: International and Global",
+      "Id": "3115",
+      "LongName": "AB Global Core Equity Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Global Core Equity Portfolio",
+      "Style": "Core",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/Global_Core_Equity.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "International/Global Equity",
+      "DisplayClass": "Equities: International and Global",
+      "Id": "199143",
+      "LongName": "AllianceBernstein/TWM Global Equity & Covered Call Strategy Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "Investor"
+        },
+        {
+          "Name": "Institutional"
+        }
+      ],
+      "ShortName": "Global Equity & Covered Call Strategy Fund",
+      "Style": "Core",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/Global_Equity_and_Covered_Call_Strategy.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "International/Global Equity",
+      "DisplayClass": "Equities: International and Global",
+      "Id": "6404",
+      "LongName": "AB Global Thematic Growth Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Global Thematic Growth Fund",
+      "Style": "Core",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/Global_Thematic_Growth.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "International/Global Equity",
+      "DisplayClass": "Equities: International and Global",
+      "Id": "2R75",
+      "LongName": "AB International Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "International Portfolio",
+      "Style": "Core",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/International.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "International/Global Equity",
+      "DisplayClass": "Equities: International and Global",
+      "Id": "3116",
+      "LongName": "AB International Strategic Core Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "International Strategic Core Portfolio",
+      "Style": "Core",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/AB-International-Strategic-Core.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "International/Global Equity",
+      "DisplayClass": "Equities: International and Global",
+      "Id": "2R09",
+      "LongName": "AB Tax-Managed International Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Tax-Managed International Portfolio",
+      "Style": "Core",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/Tax-Mgd_International.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "International/Global Equity",
+      "DisplayClass": "Equities: International and Global",
+      "Id": "3158",
+      "LongName": "AB International Growth Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "International Growth Fund",
+      "Style": "Growth",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Growth/International_Growth.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "International/Global Equity",
+      "DisplayClass": "Equities: International and Global",
+      "Id": "3117",
+      "LongName": "AB Asia ex-Japan Equity Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Asia ex-Japan Equity Portfolio",
+      "Style": "Value",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Value/Asia-ex-Japan-Equity.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "International/Global Equity",
+      "DisplayClass": "Equities: International and Global",
+      "Id": "2R81",
+      "LongName": "AB International Value Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "International Value Fund",
+      "Style": "Value",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Value/International_Value.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "64BY",
+      "LongName": "AB Arizona Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        }
+      ],
+      "ShortName": "Arizona Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Arizona.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "6429",
+      "LongName": "AB California Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "California Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Income_California.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "6400",
+      "LongName": "AB High Income Municipal Portfolio",
+      "ProductType": "National",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "High Income Municipal Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/High_Income_Muni.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "2R06",
+      "LongName": "AB Intermediate California Municipal Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Intermediate California Municipal Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Intermediate_California_Muni.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "2R04",
+      "LongName": "AB Intermediate Diversified Municipal Portfolio",
+      "ProductType": "National",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Intermediate Diversified Municipal Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Intermediate_Diversified_Municipal.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "2R03",
+      "LongName": "AB Intermediate New York Municipal Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Intermediate New York Municipal Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Intermediate_NY_Muni.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "64BR",
+      "LongName": "AB Municipal Income Massachusetts Portfolio ",
+      "ProductType": "National",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Massachusetts Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Income_Massachusetts.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "64BU",
+      "LongName": "AB Michigan Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        }
+      ],
+      "ShortName": "Michigan Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Income_Michigan.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "64BZ",
+      "LongName": "AB Minnesota Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        }
+      ],
+      "ShortName": "Minnesota Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Income_Minnesota.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "64N2",
+      "LongName": "AB Municipal Bond Inflation Strategy",
+      "ProductType": "National",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Municipal Bond Inflation Strategy",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Bond_Inflation.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "6433",
+      "LongName": "AB National Portfolio",
+      "ProductType": "National",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "National Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Income_National.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "64BW",
+      "LongName": "AB New Jersey Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        }
+      ],
+      "ShortName": "New Jersey Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Income_New_Jersey.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "6430",
+      "LongName": "AB New York Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "New York Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Income_New_York.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "64BX",
+      "LongName": "AB Ohio Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        }
+      ],
+      "ShortName": "Ohio Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Income_Ohio.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "64BQ",
+      "LongName": "AB Pennsylvania Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        }
+      ],
+      "ShortName": "Pennsylvania Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Income_Pennsylvania.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "64R5",
+      "LongName": "AB Tax-Aware Fixed Income Portfolio",
+      "ProductType": "National",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Tax-Aware Fixed Income Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Tax_Aware_Fixed_Income.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Municipal",
+      "Id": "64BV",
+      "LongName": "AB Virginia Portfolio",
+      "ProductType": "State",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Virginia Portfolio",
+      "Style": "Municipal",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Municipal/Muni_Income_Virginia.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Taxable",
+      "Id": "64N1",
+      "LongName": "AB Bond Inflation Strategy",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Bond Inflation Strategy",
+      "Style": "Taxable",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Taxable/Bond_Inflation_Strategy.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Taxable",
+      "Id": "3155",
+      "LongName": "AB Global Bond Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Global Bond Fund",
+      "Style": "Taxable",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Taxable/Global_Bond.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Taxable",
+      "Id": "3152",
+      "LongName": "AB High Income Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "High Income Fund",
+      "Style": "Taxable",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Taxable/High_Income_Fund.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Taxable",
+      "Id": "64Q0",
+      "LongName": "AB High Yield Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "High Yield Portfolio",
+      "Style": "Taxable",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Taxable/High_Yield.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Taxable",
+      "Id": "64C6",
+      "LongName": "AB Income Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Income Fund",
+      "Style": "Taxable",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Taxable/Income_fund.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Taxable",
+      "Id": "6492",
+      "LongName": "AB Intermediate Bond Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Intermediate Bond Portfolio",
+      "Style": "Taxable",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Taxable/Intermediate_Bond.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Taxable",
+      "Id": "64R3",
+      "LongName": "AB Limited Duration High Income Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Limited Duration High Income Portfolio",
+      "Style": "Taxable",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Taxable/Limited_Duration_High_Income.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Fixed Income",
+      "DisplayClass": "Fixed Income: Taxable",
+      "Id": "2R02",
+      "LongName": "AB Short Duration Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        }
+      ],
+      "ShortName": "Short Duration Portfolio",
+      "Style": "Taxable",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Fixed_Income/Taxable/Short_Duration.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Money Market",
+      "DisplayClass": "Money Market",
+      "Id": "6494",
+      "LongName": "AB Government Exchange Reserves",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Exchange Reserves",
+      "Style": "",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/MoneyMarkets/Exchange_Reserves.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Money Market",
+      "DisplayClass": "Money Market",
+      "Id": "64BA",
+      "LongName": "AB Government Money Market Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "AB"
+        },
+        {
+          "Name": "Institutional"
+        }
+      ],
+      "ShortName": "Government Money Market Portfolio",
+      "Style": "",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/MoneyMarkets/Government_Money_Market.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset",
+      "DisplayClass": "Multi-Asset",
+      "Id": "64AM",
+      "LongName": "AB All Market Income Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "All Market Income Portfolio",
+      "Style": "",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/All_Market_Income_Portfolio.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset",
+      "DisplayClass": "Multi-Asset",
+      "Id": "3101",
+      "LongName": "AB Emerging Markets Multi-Asset Portfolio",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Emerging Markets Multi-Asset Portfolio",
+      "Style": "",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Emerging_Markets_Multi_Asset.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset",
+      "DisplayClass": "Multi-Asset",
+      "Id": "6439",
+      "LongName": "AB Global Risk Allocation Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Global Risk Allocation Fund",
+      "Style": "",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/Equity/Core/Balanced_Shares.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset",
+      "DisplayClass": "Multi-Asset",
+      "Id": "64SB",
+      "LongName": "AB Multi-Manager Select 2010 Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select 2010 Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_2010.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset",
+      "DisplayClass": "Multi-Asset",
+      "Id": "64SD",
+      "LongName": "AB Multi-Manager Select 2015 Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select 2015 Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_2015.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "64SF",
+      "LongName": "AB Multi-Manager Select 2020 Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select 2020 Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_2020.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "64SG",
+      "LongName": "AB Multi-Manager Select 2025 Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select 2025 Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_2025.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "64SH",
+      "LongName": "AB Multi-Manager Select 2030 Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select 2030 Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_2030.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "64SJ",
+      "LongName": "AB Multi-Manager Select 2035 Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select 2035 Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_2035.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "64SL",
+      "LongName": "AB Multi-Manager Select 2040 Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select 2040 Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_2040.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "64SM",
+      "LongName": "AB Multi-Manager Select 2045 Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select 2045 Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_2045.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "64SN",
+      "LongName": "AB Multi-Manager Select 2050 Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select 2050 Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_2050.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "64SP",
+      "LongName": "AB Multi-Manager Select 2055 Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select 2055 Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_2055.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "64SA",
+      "LongName": "AB Multi-Manager Select Retirement Allocation Fund",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        },
+        {
+          "Name": "Z"
+        }
+      ],
+      "ShortName": "Multi-Manager Select Retirement Allocation Fund",
+      "Style": "Target Date",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Multi-Manager-Select/MMSelect_Retire_Alloc.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "ZX12",
+      "LongName": "AB Balanced Wealth Strategy",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Balanced Wealth Strategy",
+      "Style": "Wealth Strategies",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Wealth_Strats/Balanced_Wealth_Strategy.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "ZX13",
+      "LongName": "AB Conservative Wealth Strategy",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Conservative Wealth Strategy",
+      "Style": "Wealth Strategies",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Wealth_Strats/Conservative_Wealth_Strategy.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "ZX09",
+      "LongName": "AB Tax-Managed Balanced Wealth Strategy",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Tax-Managed Balanced Wealth Strategy",
+      "Style": "Wealth Strategies",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Wealth_Strats/Tax-Mgd_Bal_Wealth_Strat.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "ZX08",
+      "LongName": "AB Tax-Managed Conservative Wealth Strategy",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Tax-Managed Conservative Wealth Strategy",
+      "Style": "Wealth Strategies",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Wealth_Strats/Tax-Managed_Cons_Wealth_Strat.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "ZX17",
+      "LongName": "AB Tax-Managed Wealth Appreciation Strategy",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Tax-Managed Wealth Appreciation Strategy",
+      "Style": "Wealth Strategies",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Wealth_Strats/Tax-Mgd_Wealth_Appr_Strat.htm",
+      "Vehicle": "Mutual Fund"
+    },
+    {
+      "AssetClass": "Multi-Asset","DisplayClass": "Multi-Asset",
+      "Id": "ZX11",
+      "LongName": "AB Wealth Appreciation Strategy",
+      "ProductType": "",
+      "ShareClasses": [
+        {
+          "Name": "A"
+        },
+        {
+          "Name": "B"
+        },
+        {
+          "Name": "C"
+        },
+        {
+          "Name": "I"
+        },
+        {
+          "Name": "K"
+        },
+        {
+          "Name": "R"
+        },
+        {
+          "Name": "Advisor"
+        }
+      ],
+      "ShortName": "Wealth Appreciation Strategy",
+      "Style": "Wealth Strategies",
+      "Url": "/abcom/Product_Center/3_Vehicle/MF/AsstAlloc_MultiAsst/Wealth_Strats/Wealth_Appreciation_Strategy.htm",
+      "Vehicle": "Mutual Fund"
+    }
+  ]

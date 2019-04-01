@@ -1,0 +1,76 @@
+.abpc-pagination-list {
+    padding-top: 20px;
+    font-size:1.5em;
+}
+
+.abpc-pagination {
+    padding: 0;
+    margin: 0 0 20px 0;
+    text-align: center;
+    width: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+.abpc-pagination li.abpc-pagination-prev a {
+    background: url(http://methodeabcom.staging.acml.com/resources/images/icons/paging_chevron_prev.png) no-repeat 0 0;
+}
+
+.abpc-pagination li.abpc-pagination-next a {
+    background: url(http://methodeabcom.staging.acml.com/resources/images/icons/paging_chevron_next.png) no-repeat 0 0;
+}
+
+.abpc-pagination li.abpc-pagination-first a {
+    background: url(http://methodeabcom.staging.acml.com/resources/images/icons/paging_chevron_first.png) no-repeat 0 0;
+}
+
+.abpc-pagination li.abpc-pagination-last a {
+    background: url(http://methodeabcom.staging.acml.com/resources/images/icons/paging_chevron_last.png) no-repeat 0 0;
+}
+
+.abpc-pagination li {
+    display: inline-block !important;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.abpc-pagination li a {
+    display: block;
+    padding: 10px 12px;
+    transition: 0.3s;
+    text-align: center;
+    background: #fff;
+    color: #000;
+    font-family: 'KlavikaWebBasicLight', Arial, Helvetica, sans-serif !important;
+    font-size: 14px;
+    border: 1px solid #fff;
+    cursor:pointer;
+}
+
+.abpc-pagination li.abpc-pagination-prev a, .abpc-pagination li.abpc-pagination-next a, .abpc-pagination li.abpc-pagination-first a, .abpc-pagination li.abpc-pagination-last a {
+    text-indent: -9999px;
+    display: block;
+    width: 33px;
+    height: 37px;
+}
+
+.abpc-pagination li.disabled.abpc-pagination-next a, .abpc-pagination li.disabled.abpc-pagination-prev a, .abpc-pagination li.disabled.abpc-pagination-first a, .abpc-pagination li.disabled.abpc-pagination-last a  {
+    background: none;
+}
+
+.abpc-pagination li.active a {
+    border: 1px solid #000;
+    font-family: 'KlavikaWebBasicBold', Arial, Helvetica, sans-serif !important;
+}
+
+@media (min-width: 767px){
+    .abpc-pagination li:not(:first-child) {
+        margin-left: 10px;
+    }
+}
+
+li.disabled {
+    display:none !important;
+}
