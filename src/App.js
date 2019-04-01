@@ -57,7 +57,6 @@ class App extends Component {
       console.log(pagesArray);
     }
     else { //total number of pages is more than 5
-      //console.log(this.state.currentPageNo);
 
       //first 3 pages
       if (this.state.currentPageNo < 4) {
@@ -89,7 +88,7 @@ class App extends Component {
     Promise.polyfill();
 
     requestedPage = requestedPage - 1;
-    axios.get("page" + requestedPage + ".json")
+    axios.get(`page${requestedPage}.json`)
     .then((response) => {
       let paging = response.data.SearchResults.Paging;
       self.setState({
@@ -108,19 +107,7 @@ class App extends Component {
     //this.setState({currentPageNo: currPage});
   }
 
-  // showNext(){
-  //   //console.log(Number(this.state.currentPageNo) + 1);
-  //   //make api call with currentPageNo+1
-  //   this.setState({currentPageNo: this.state.currentPageNo + 1});
-  // }
-
-  // showPrev(){
-  //   //console.log(Number(this.state.currentPageNo) - 1);
-  //   //make api call with currentPageNo-1
-  //   this.setState({currentPageNo: this.state.currentPageNo - 1});
-  // }
-
-
+  
   render() {
     
       if (this.state.loading === false){
@@ -128,7 +115,7 @@ class App extends Component {
           <div className="ab-row">
           <div className="abpc-pagination-list">
             <ul className="abpc-pagination">
-              <li className={this.state.pageCount > 5 ? "abpc-pagination-first" : "disabled abpc-pagination-first"}>
+              <li className={this.state.pageCount > 5 ?  (this.state.currentPageNo === 1 ? "disabled abpc-pagination-first" : "abpc-pagination-first" ) : "disabled abpc-pagination-first"}>
                   <a onClick={() => this.changePage(1)}>First</a>
               </li>
               <li className={this.state.currentPageNo === 1 ? 'disabled abpc-pagination-prev' : 'abpc-pagination-prev'}>
@@ -150,7 +137,7 @@ class App extends Component {
               <li className={this.state.currentPageNo === this.state.pageCount ? 'disabled abpc-pagination-next' : 'abpc-pagination-next'}>
                   <a onClick={()=> this.changePage(this.state.currentPageNo + 1)}>Next</a>
               </li>
-              <li className={this.state.pageCount > 5 ? "abpc-pagination-last" : "disabled abpc-pagination-last"}>
+              <li className={this.state.pageCount > 5 ? (this.state.currentPageNo === this.state.pageCount ? "disabled abpc-pagination-last" : "abpc-pagination-last" ) : "disabled abpc-pagination-last"}>
                   <a onClick={() => this.changePage(this.state.pageCount)}>Last</a>
               </li>
             </ul>
