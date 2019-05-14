@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="15px" viewBox="0 0 19 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Jump Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Pagination-Explorations-v5a" transform="translate(-510.000000, -922.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Hover-2" transform="translate(495.000000, 910.000000)">
+                <g id="Jump-to-First" transform="translate(25.000000, 20.000000) rotate(-180.000000) translate(-25.000000, -20.000000) ">
+                    <g id="Jump-Icon" transform="translate(17.000000, 14.000000)">
+                        <polyline id="Path-2" points="0 -5.86197757e-14 7 6.7265233 0 12.4444444"></polyline>
+                        <polyline id="Path-2" points="10 -5.86197757e-14 17 6.7265233 10 12.4444444"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
